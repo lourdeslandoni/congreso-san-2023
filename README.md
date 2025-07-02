@@ -25,7 +25,7 @@ The dashboard includes several tabs that allow you to view:
 - Reasons respondents express concern about seals
 - Packaging characteristics that influenced product choice (cream cheese, yogurt, cookies)
 __________________________________________________________________________________________________________________________________________
-## Dashboard highlights
+## Dashboard Highlights
 
 ![n1](https://github.com/user-attachments/assets/d36126ef-458f-4d67-98d9-318eb2d3a3f6)
 ![n2](https://github.com/user-attachments/assets/1ed346a4-9e26-4a3b-8b56-7b2e291f94ca)
