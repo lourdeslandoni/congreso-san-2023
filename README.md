@@ -1,27 +1,35 @@
-🧾 Descripción general
-Este tablero interactivo en Power BI presenta los resultados del “Primer Estudio sobre el Estado Nutricional y los Hábitos Alimentarios de la Población Adulta de Rosario”, realizado en Argentina en el año 2013, siguiendo los lineamientos de FAO. En el estudio se encuestaron 2.400 personas adultas de diferentes rangos etarios, quienes registraron todo lo consumido el día anterior.
+## 🧾 Descripción general
+El objetivo de este trabajo es investigar si el etiquetado frontal genera preocupación con relación a la salud al considerar un grupo los alimentos consumidos de manera habitual, así como determinar qué características del envase influyen en la elección de los productos y conocer la intención de elección frente a las versiones reformuladas.
+
+Se realizó un estudio descriptivo a través de una encuesta generada en Google Forms como herramienta de recolección de datos. La población objetivo fue de 637 empleados del INTI. Las preguntas de la encuesta fueron de tipo cerrada, incluyendo opciones predefinidas de elección única y múltiple. Para el procesamiento de datos, se utilizó tanto Excel como Power BI (Microsoft).
 
 El tablero incluye distintas solapas que permiten visualizar:
 
-Información demográfica de los encuestados
-Categorías de alimentos más consumidas
-Ingesta de nutrientes críticos (azúcares, sodio)
-Alimentos de consumo masivo (cereales, carnes, lácteos)
-Resumen de la ingesta de macronutrientes respecto a los valores diarios recomendados
-También cuenta con filtros por género, grupo etario y ocasión de consumo (desayuno, almuerzo, merienda, cena, snack/colación), lo que permite un análisis más segmentado de la información.
+- Información demográfica de los encuestados
+- Orígenes de la preocupación por los distintos tipos de sellos
+- Motivos por los cuales los encuestados expresan preocupación por los sellos
+- Características del envase que condicionaron elección de producto (queso crema, yogures, galletitas)
 
-EN
+__________________________________________________________________________________________________________________________________________
+(EN)
 
-📊🧾 Overview
-This interactive Power BI dashboard presents results from the "First Study on the Nutritional Status and Eating Habits of the Adult Population in Rosario," conducted in Argentina in 2013 following FAO guidelines. The study surveyed 2,400 adults of various age groups, who reported everything they consumed the previous day.
+## 📊🧾 Overview
+The objective of this study is to investigate whether front-of-pack labeling generates health concerns when considering a group of foods consumed regularly, as well as to determine which packaging characteristics influence the choice of products and to know the intention to choose reformulated versions.
 
-The dashboard includes multiple tabs:
+A descriptive study was conducted using a survey generated using Google Forms as a data collection tool. The target population was 637 INTI employees. The survey questions were closed-ended, including predefined single- and multiple-choice options. Both Excel and Power BI (Microsoft) were used for data processing.
 
-Demographics of participants
-Most consumed food categories
-Intake of critical nutrients (e.g., sugar, sodium)
-Mass consumption foods (e.g., cereals, meats, dairy)
-Summary of macronutrient intake against recommended daily values
-It also features filters by gender, age group, and meal occasion (breakfast, lunch, snack, dinner), enabling targeted exploration of the data.
+The dashboard includes several tabs that allow you to view:
 
-Dashboard highlights
+- Respondent demographic information
+- Source of concern about different types of seals
+- Reasons respondents express concern about seals
+- Packaging characteristics that influenced product choice (cream cheese, yogurt, cookies)
+__________________________________________________________________________________________________________________________________________
+## Dashboard highlights
+
+![n1](https://github.com/user-attachments/assets/d36126ef-458f-4d67-98d9-318eb2d3a3f6)
+![n2](https://github.com/user-attachments/assets/1ed346a4-9e26-4a3b-8b56-7b2e291f94ca)
+![n3](https://github.com/user-attachments/assets/f3480761-7878-49a0-b7a8-352023875bb3)
+![n4](https://github.com/user-attachments/assets/1bf6eee2-c34f-4251-a2d0-05068e7ac18a)
+
+
