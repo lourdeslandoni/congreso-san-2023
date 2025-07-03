@@ -13,7 +13,7 @@ El tablero incluye distintas solapas que permiten visualizar:
 __________________________________________________________________________________________________________________________________________
 (EN)
 
-## 📊🧾 Overview
+## 🧾 Overview
 The objective of this study is to investigate whether front-of-pack labeling generates health concerns when considering a group of foods consumed regularly, as well as to determine which packaging characteristics influence the choice of products and to know the intention to choose reformulated versions.
 
 A descriptive study was conducted using a survey generated using Google Forms as a data collection tool. The target population was 637 INTI employees. The survey questions were closed-ended, including predefined single- and multiple-choice options. Both Excel and Power BI (Microsoft) were used for data processing.
